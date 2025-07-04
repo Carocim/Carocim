@@ -3,7 +3,7 @@ Medicine and Health Graduate | Tech Hobbyist | Self-Taught Coder
 
 ---
 
-I'm Carocim. I graduated with a degree in Medicine and Health, but tech has always been something I enjoyed on the side.  
+I'm Carocim. I recently graduated with a degree in Medicine and Health, but tech has always been something I enjoyed on the side.  
 This GitHub is basically my passion project — a space where I build random tools, test out ideas, and learn things as I go.
 
 It's not meant to be polished or perfect — just real stuff I use, things that help with my hobbies, and a brain dump for my coding journey.
