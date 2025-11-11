@@ -14,3 +14,5 @@ It’s not polished or formal, just real projects that help me in my routines an
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![OBS Scripting](https://img.shields.io/badge/-OBS%20Scripting-302E31?style=flat&logo=obsstudio&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat&logo=gnu-bash&logoColor=black)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carocim&layout=compact&langs_count=6)
